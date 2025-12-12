@@ -2,7 +2,7 @@
 Breast Cancer Diagnosis Prediction using KNN and K-Means
 This project is about predicting whether a breast cancer case is malignant or benign using machine learning. I used K-Nearest Neighbors (KNN) for supervised classification and K-Means Clustering for unsupervised grouping. The goal was to see how well these algorithms can identify cancer types from the dataset.
 
-## What I did (short)
+## What I did
 - Cleaned and preprocessed the dataset (dropped `id`, `Unnamed: 32`, encoded diagnosis).  
 - Scaled features using **Min-Max Normalization**.  
 - Split data: **80% train / 20% test**.  
